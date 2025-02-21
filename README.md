@@ -34,7 +34,7 @@ Our Browseruse agent demonstrate exceptional performance in real-world online sc
 
 1. Clone the repository:
 ```bash
-git clone ...
+git clone git@github.com:xlang-ai/AgentTrek.git
 cd agenttrek
 ```
 

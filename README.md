@@ -1,7 +1,7 @@
 # AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials
 
 <p align="center">
-        📑 <a  href="https://arxiv.org/abs/2412.09605" target="_blank">Paper</a> &nbsp&nbsp  </a> | &nbsp&nbsp 🌐 <a href="https://agenttrek.github.io/" target="_blank">Project Page</a> &nbsp&nbsp | &nbsp&nbsp 💾 <a href="https://huggingface.co/collections/ranpox/agenttrek-browser-use-agent-data-synthesis-6794a7cebb90c5ccdb9a3068" target="_blank"> AgentTrek Data Collection</a> &nbsp&nbsp
+        📑 <a  href="https://arxiv.org/abs/2412.09605" target="_blank">Paper</a> &nbsp&nbsp  </a> | &nbsp&nbsp 🌐 <a href="https://agenttrek.github.io/" target="_blank">Project Page</a> &nbsp&nbsp | &nbsp&nbsp 💾 <a href="https://huggingface.co/collections/ranpox/agenttrek-browser-use-agent-data-synthesis-6794a7cebb90c5ccdb9a3068" target="_blank"> AgentTrek Browser-use Trajectories</a> &nbsp&nbsp | &nbsp&nbsp 💾 <a href="https://huggingface.co/xlangai/AgentTrek-1.0-32B" target="_blank"> AgentTrek-1.0-32B</a> &nbsp&nbsp
 <br>
 
 ## intruduction
